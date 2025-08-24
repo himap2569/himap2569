@@ -34,9 +34,6 @@ badges: https://shields.io/
     <img width="55%" align="right" alt="Hima's github stats" src="https://github-readme-stats.vercel.app/api?username=himap2569&show_icons=true&hide_border=true" />
   </a>
 
-
-### Languages and Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>

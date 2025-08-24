@@ -19,8 +19,8 @@ badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 Currently, a student at Georgia Institute of Technology getting my Master's Degree in Computer Science;
-- 🌱 I’m currently working on mastering AI/ML systems; 
+- 👨🏽‍💻 Student at Georgia Institute of Technology getting my Master's Degree in Computer Science;
+- 🌱 I’m  working on mastering AI/ML systems; 
 - 👾 I’m looking for opportunities to contribute to opensource;
 - ⚡️ "You miss 100% of the shots you don’t take" – Michael Scott;
 
